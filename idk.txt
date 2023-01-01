@@ -1,3 +1,2 @@
-Update Beta 1.4.4: Added Horror Mode, Ramps, Slide
-Also Xmas Cosmetics Will Be Gone Tomorrow So Yea!
-Bye
+Update 1.4.5: Added Minigames Mode, Fixed stretch Texture,
+The Ai Should Be ServerSided?
