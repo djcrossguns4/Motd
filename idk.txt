@@ -1,2 +1,4 @@
-Update 1.4.5: Added Minigames Mode, Fixed stretch Texture,
-The Ai Should Be ServerSided?
+Update 1.4.6: Fixed Get Out OF Map, Added Buttons When You Pressed It Turn Red,
+Added Ai, You Can Grab The Ball [Buggy], Added Ui In Pc, Fixed Lava Does Not Have Colliders
+
+Sorry For Late Update.
