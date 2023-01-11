@@ -1,2 +1,1 @@
-Quick Fixed: Terrain Does Not Have Colliders.
-And Terrain Might Be different Bc Bug
+Quick Added: The Ai Can Chase The Closest Players. 
