@@ -1,1 +1,8 @@
-Update 1.4.9: Added Tag Gamemode, Remove Jumpscared In Backrooms. Due The Issues
+Update 1.5.0: Added IAP (TESTING),
+
+Fixed Level 2 Monster Is Not Moving In Backrooms,
+Fixed Lava Mode. Where You Can Stand On Lava,
+In Lava Mode. You Can Become a Lava When You Fall In Lava,
+Update Credits, And Added Credits Mod Board,
+
+Still Fixing The Issues With The Jumpscare, In Horror Mode, Backrooms
