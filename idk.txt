@@ -1,4 +1,4 @@
-Update 1.5.0: Added IAP (TESTING),
+Update 1.5.0: Added IAP (FIXED. YOU CAN BUY IT NOW),
 
 Fixed Level 2 Monster Is Not Moving In Backrooms,
 Fixed Lava Mode. Where You Can Stand On Lava,
