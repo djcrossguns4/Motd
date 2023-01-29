@@ -1,8 +1,4 @@
-Update 1.5.0: Added IAP (FIXED. YOU CAN BUY IT NOW),
-
-Fixed Level 2 Monster Is Not Moving In Backrooms,
-Fixed Lava Mode. Where You Can Stand On Lava,
-In Lava Mode. You Can Become a Lava When You Fall In Lava,
-Update Credits, And Added Credits Mod Board,
-
-Still Fixing The Issues With The Jumpscare, In Horror Mode, Backrooms
+Update 1.5.1: Added Playfab Currency. So You Dont Lose Your Cosmetics yay,
+Added Finger/Hand (Sadly No Finger Movements. But Soons),
+Added Options To The Computer (Color, Player Selections),
+Added Cave (Not Great.),
