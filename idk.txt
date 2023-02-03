@@ -1,4 +1,6 @@
-Update 1.5.1: Added Playfab Currency. So You Dont Lose Your Cosmetics yay,
-Added Finger/Hand (Sadly No Finger Movements. But Soons),
-Added Options To The Computer (Color, Player Selections),
-Added Cave (Not Great.),
+Update 1.5.2: Added Finger Movements (Not Networks Yet),
+Fixed Color, Player Selections In Options,
+Added 1K Players Events, New Maps, 
+Fixed Walls, [Added New Trees] (Credits By: Childstealer#6447),
+
+And Thank Yall For 1K Players. It Made My Day Happy :)
