@@ -1,7 +1,6 @@
 Update: 1.5.4: Added Tag System (Tag Gamemode),
-SIZE CHANGER,
-Snap Turning,
-Working Horror Mode In (Computer Mode), 
+SIZE CHANGER, Snap Turning, Update Motd Board, 
+Working Horror Mode In (Computer Mode), Swimming Mechanic,
 sadly No Finger Networked :( (Try to),
 Minigame Maps?
 CASHIER GUY
