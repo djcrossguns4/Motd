@@ -1,5 +1,5 @@
 Update 1.5.7:
 
-Added Slapie battles back, Added CTF, Switching PhotonVR with my own VR Manager
+Added Slapie battles back, Added CTF (respawn broken when hit), Switching PhotonVR with my own VR Manager
 Added Gamemodes (Battle, Infection, Bomb Tag), Size Changer,
 Fixed playfab login
