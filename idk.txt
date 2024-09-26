@@ -1,4 +1,4 @@
-Update 1.5.8:
+Update 1.6.0:
 
 Fixed tag delay in infection and bomb tag,
 Fixed ragdolls in bomb tag where it can't be destroyed
