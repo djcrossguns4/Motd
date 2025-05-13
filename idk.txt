@@ -1,6 +1,5 @@
-We are so back after 8 Months. We so sorry for VERY late update, but now it's here
+Update 1.6.2:
 
-Update 1.6.1:
-
-Fixed Incorrect player scale after going out of size changer
-Oculus Integration Migrated to Meta XR Platform SDK
+Fixed Slingshot audio not working
+Fixed Drone audio not working
+Slingshot shoot Adjustment
